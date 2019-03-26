@@ -1,0 +1,20 @@
+{
+  "name": "rvnforest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Steven Zeiler <me@stevezeiler.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^11.11.8",
+    "bcrypt": "^3.0.5",
+    "commander": "^2.19.0",
+    "dotenv": "^7.0.0",
+    "hapi": "^18.1.0",
+    "hapi-auth-basic": "^5.0.0",
+    "moment": "^2.24.0",
+    "pg": "^7.9.0",
+    "sequelize": "^5.2.0",
+    "uuid": "^3.3.2",
+    "winston": "^3.2.1"
+  }
+}
